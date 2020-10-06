@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Runtime",
+        "repositoryURL": "https://github.com/wickwirew/Runtime.git",
+        "state": {
+          "branch": null,
+          "revision": "a848b81e1a0100801f572e5273ffe4352fd54088",
+          "version": "2.2.2"
+        }
+      },
+      {
+        "package": "SemanticUI",
+        "repositoryURL": "https://github.com/SwiftWebResources/SemanticUI-Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "eaa40d8f7c01e1aad896fb8747edd3a1b71dc41a",
+          "version": "2.3.4"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "96db8838be60fcbb993fa738e1120fb7f4b99c43",
+          "version": "2.22.1"
+        }
+      },
+      {
+        "package": "SwiftWebUI",
+        "repositoryURL": "https://github.com/SwiftWebUI/SwiftWebUI.git",
+        "state": {
+          "branch": "master",
+          "revision": "18cbd100d360432cbc38142f8571176776953450",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
